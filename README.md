@@ -2,6 +2,8 @@
 
 Authenticator app for my thesis, Edu_Jobs
 
+Video link: <https://youtube.com/watch?v=A7szW3npAA0>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
